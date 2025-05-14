@@ -32,7 +32,7 @@ Meu objetivo é sempre buscar novas formas de aprender, evoluir e aplicar meus c
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luizalocha/)
-- 📧 seu.email@exemplo.com
+- 📧 luiza.locha@gmail.com
 
 ---
 
