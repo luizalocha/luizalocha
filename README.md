@@ -1,43 +1,40 @@
-<h1 align="center">Olá 👋, me chamo Luiza Locha]</h1>
+# Olá, seja bem-vindo(a) ao meu GitHub 👋
 
-<p align="center">
-  💻 Apaixonada por <strong>tecnologia</strong>, <strong>análise de dados</strong> e <strong>segurança da informação</strong><br>
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  🛠️ Técnica em Informática
-</p>
+Sou apaixonada por tecnologia, análise de dados e segurança da informação.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e sou **Técnica em Informática**.
 
 ---
 
-## 🚀 Sobre mim
+## 🧩 Sobre mim
 
-Sou uma entusiasta da tecnologia em constante aprendizado. Gosto de transformar dados em informações valiosas, explorar novas ferramentas e entender como a segurança da informação impacta o mundo digital.
+No momento, estou focada em me desenvolver por meio de projetos voltados para:
 
-Atualmente estou focada em:
+- 📊 **Análise de dados com Business Intelligence**
+- ⚙️ **Automação de processos**
+- 🔍 **Transformação de dados em informações valiosas** para apoiar decisões estratégicas
 
-- 📊 Projetos de análise de dados
-- 🔐 Conceitos e práticas de segurança da informação
-- 👩‍💻 Desenvolvimento de soluções em diversas linguagens
+Acredito no poder da tecnologia e dos dados para melhorar processos e gerar valor.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
-- E-mail: seu.email@exemplo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📧 seu.email@exemplo.com
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+Obrigada por visitar meu perfil!
