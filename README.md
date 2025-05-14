@@ -2,7 +2,7 @@
 
 **`Estudante de Análise de Sistemas | Técnica em Informática`**
 
-Olá! Me chamo [Seu Nome], tenho 18 anos e sou Técnica em Informática. Atualmente curso **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS** e sou apaixonada por **análise de dados, automações e tecnologia**.
+Olá! Me chamo **Luiza Locha**, tenho 18 anos e sou Técnica em Informática. Atualmente curso **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS** e sou apaixonada por **análise de dados, automações e tecnologia**.
 
 Estou focada em projetos de **Business Intelligence (BI)** e **automação de processos**, com o objetivo de transformar dados em informações estratégicas que auxiliam na tomada de decisões.
 
@@ -10,9 +10,7 @@ Estou focada em projetos de **Business Intelligence (BI)** e **automação de pr
 
 ### 💡 Sobre mim
 
-- 🎓 Técnica em Informática
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas (UNILAVRAS)
-- 📊 Apaixonada por dados, BI e soluções inteligentes
+- 📊 Apaixonada por dados, BI, segurança da informação e soluções inteligentes
 - 🤖 Interessada em automações e tecnologias que geram valor
 
 ---
@@ -33,17 +31,19 @@ Estou focada em projetos de **Business Intelligence (BI)** e **automação de pr
 ### 📈 Estatísticas do GitHub
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizalocha&show_icons=true&theme=radical&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalocha&layout=compact&theme=radical&locale=pt-br" />
 </p>
 
 ---
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📧 seu.email@exemplo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/luizalocha/)
+- 📧 luiza.locha@gmail.com
 
 ---
 
 Obrigada por visitar meu perfil!
+
+---
