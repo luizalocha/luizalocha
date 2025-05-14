@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Bem-vindo(a) ao meu GitHub
+#👩🏼‍💻 Bem-vindo(a) ao meu GitHub
 
-**`Estudante de Análise de Sistemas | Técnica em Informática`**
+**`Analista de Dados | Estudante de Análise e Desenvolvimento de Sistemas
 
-Olá! Me chamo **Luiza Locha**, tenho 18 anos e sou Técnica em Informática. Atualmente curso **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS** e sou apaixonada por **análise de dados, automações e tecnologia**.
+Olá! Me chamo **Luiza Locha**, tenho 18 anos, sou Técnica em Informática. Atualmente curso **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS** e sou apaixonada por **análise de dados, automações e tecnologia**.
 
 Estou focada em projetos de **Business Intelligence (BI)** e **automação de processos**, com o objetivo de transformar dados em informações estratégicas que auxiliam na tomada de decisões.
 
