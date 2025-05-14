@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Luiza Locha
 
-**`Estudante de Análise de Sistema | Estudante de Análise e Desenvolvimento de de Sistema`**
+**`Analista de dados | Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Olá, sou **Luiza Locha**, tenho 18 anos e sou **Técnica em Informática**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS**. Sou apaixonada por **tecnologia, análise de dados e automações**, com foco em **Business Intelligence (BI)**, **transformação de dados** e soluções que facilitem a tomada de decisões. 
 
