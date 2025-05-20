@@ -2,7 +2,7 @@
 
 **`Analista de dados | Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Olá, sou **Luiza Locha**, tenho 18 anos e sou **Técnica em Informática**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS**. Sou apaixonada por **tecnologia, análise de dados e automações**, com foco em **Business Intelligence (BI)**, **transformação de dados** e soluções que facilitem a tomada de decisões. 
+Olá, me chamo **Luiza**, tenho 18 anos, e sou **Técnica em Informática**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS**. Sou apaixonada por **tecnologia, análise de dados, segurança da informação e automações**, com foco em **Business Intelligence (BI)**, **transformação de dados** e soluções que facilitem a tomada de decisões. 
 
 Meu objetivo é sempre buscar novas formas de aprender, evoluir e aplicar meus conhecimentos de maneira prática. Estou cada vez mais interessada em projetos de **análise de dados** e **automação de processos**, além de sempre buscar desenvolver soluções inovadoras para melhorar a produtividade e eficiência.
 
