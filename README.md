@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Luiza Locha
 
-**`Analista de dados | Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Engenheira de dados | Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Olá, me chamo **Luiza**, tenho 19 anos, e atuo como estagiária em Engenharia de Dados na GaussFleet, também sou **Técnica em Informática** e atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS**. Sou apaixonada por **tecnologia, dados** com foco em **Engenharia de Dados**, **transformação de dados** e soluções que facilitem a tomada de decisões. 
 
