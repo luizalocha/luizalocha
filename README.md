@@ -4,7 +4,7 @@
 
 Olá, me chamo **Luiza**, tenho 19 anos, e atuo como estagiária em Engenharia de Dados na GaussFleet, também sou **Técnica em Informática** e atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UNILAVRAS**. Sou apaixonada por **tecnologia, dados** com foco em **Engenharia de Dados**, **transformação de dados** e soluções que facilitem a tomada de decisões. 
 
-Meu objetivo é sempre buscar novas formas de aprender, evoluir e aplicar meus conhecimentos de maneira prática. Estou cada vez mais interessada em projetos de **análise de dados** e **automação de processos**, além de sempre buscar desenvolver soluções inovadoras para melhorar a produtividade e eficiência.
+Meu objetivo é sempre buscar novas formas de aprender, evoluir e aplicar meus conhecimentos de maneira prática.
 
 ---
 
@@ -15,8 +15,7 @@ Meu objetivo é sempre buscar novas formas de aprender, evoluir e aplicar meus c
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
