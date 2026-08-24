@@ -2,7 +2,7 @@
 
 **`Estagiária em Engenharia de Dados | Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Olá! Eu sou a **Luiza Locha**, apaixonada por **dados, tecnologia e desenvolvimento de soluções** que transformam informações em valor para o negócio.
+Olá! Me chamo **Luiza Locha**, apaixonada por **dados, tecnologia e desenvolvimento de soluções** que transformam informações em valor para o negócio.
 
 Atualmente, atuo como **Estagiária em Engenharia de Dados na GaussFleet**, trabalhando no desenvolvimento, manutenção e orquestração de **pipelines de dados**, com foco em **ETL, automação de processos, integração entre sistemas e Business Intelligence**.
 
