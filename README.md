@@ -25,15 +25,6 @@ Busco constantemente evoluir minhas habilidades técnicas e interpessoais, apren
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
 
-**Principais conhecimentos:**
-
-- 🐘 **PHP** — desenvolvimento de processos de ETL
-- 🌬️ **Apache Airflow** — orquestração de pipelines e DAGs
-- 🐍 **Python** — automação e processamento de dados
-- 🗄️ **SQL Server** — consultas, manipulação e integração de dados
-- 📊 **Power BI** — dashboards, relatórios e indicadores
-- 🌱 **Git** — versionamento e colaboração em projetos
-
 ---
 
 ### 📫 Contato
