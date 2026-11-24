@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Luiza Locha
 
-**`Estagiária em Engenharia de Dados | Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Engenheira de Dados | Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Olá! Me chamo **Luiza Locha**, apaixonada por **dados, tecnologia e desenvolvimento de soluções** que transformam informações em valor para o negócio.
 
